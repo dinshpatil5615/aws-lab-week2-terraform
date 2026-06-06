@@ -2,7 +2,7 @@
 **Date:** 2026-06-06
 **Severity:** P1 — Database Unavailable
 **Duration:** ~15 minutes
-**Author:** [Your Name]
+**Author:** Dinesh Patil
 
 ## Summary
 RDS MySQL instance was configured with max_connections=2 causing
